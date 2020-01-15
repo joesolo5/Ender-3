@@ -1,4 +1,7 @@
-﻿# Marlin 3D Printer Firmware
+This file is a modified version of Marlin-2.0.x-SKR-Mini-E3-V1.2 that has the Filament Change Feature added back in.  Designed and tested on an Ender 3 and it works.
+
+
+# Marlin 3D Printer Firmware
 
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
